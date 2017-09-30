@@ -6,7 +6,7 @@ This framework was written in TypeScript, a superset of ECMAScript standard. It'
 * events
 * net
 * dgram
-* typescript (downloadable via https://www.npmjs.com/package/typescript).
+* typescript (available on https://www.npmjs.com/package/typescript).
 
 ## How it works
 Let's see some basic snippets which give you an idea of how SpacesJS works:

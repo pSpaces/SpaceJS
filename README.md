@@ -40,7 +40,7 @@ space.queryAll((tuples) => {
 })
 ```
 
-## Loading SpaceJS-based source file in a browser page
+## Loading SpaceJS-based source file in a web page
 Node.js is not intended to write client-side scripts, cause of `require()` instruction which browser can not execute. However, there are some useful Node.js packages meant to "convert" a Node.js-based source file into a JavaScript file loadable via HTML `<script>` tag:
 * browserify (https://www.npmjs.com/package/browserify)
 * watchify, which acts as a file watcher (https://www.npmjs.com/package/watchify).
